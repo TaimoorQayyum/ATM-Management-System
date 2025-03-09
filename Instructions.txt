@@ -1,0 +1,9 @@
+We use File Handling in this our path of file is Same folder our all statment save in MiniStatement_CurentUserName.txt file . 
+if file is avaliable they store store Statment other wise they first create file then save all Statment .
+
+ATM MANAGEMENT SYSTEM
+
+Some account avaliable in code with account number and pin.
+
+Account Number = 12345678
+Pin = 12345
